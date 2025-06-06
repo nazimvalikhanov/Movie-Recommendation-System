@@ -6,24 +6,24 @@ This project is a **hybrid movie recommendation system** that combines
 
 ---
 
-## 💻 Tech Stack Used in This Project
+## Tech Stack Used in This Project
 
-- 🐍 Python (`Pandas`, `NumPy`, `Scikit-learn`, `Implicit`, `Streamlit`)
-- 🔍 NLP: TF-IDF Vectorizer, Cosine Similarity
-- 🧠 Collaborative Filtering: ALS (Alternating Least Squares)
-- 📦 Pickle (for model saving/loading)
-- 📊 Streamlit (for UI deployment)
+- Python (`Pandas`, `NumPy`, `Scikit-learn`, `Implicit`, `Streamlit`)
+- NLP: TF-IDF Vectorizer, Cosine Similarity
+- Collaborative Filtering: ALS (Alternating Least Squares)
+- Pickle (for model saving/loading)
+- Streamlit (for UI deployment)
 
 ---
 
-## 📁 Data & Models
+## Data & Models
 
 > ⚠️ Due to GitHub's file size limit, some large files such as `movies.csv` and `tfidf_model.pkl` are not included here.  
 > If needed, they can be shared upon request or made accessible via an external link.
 
 ---
 
-## 🚀 Project Structure
+## Project Structure
 
 ```bash
 ├── app.py                              # Streamlit interface
@@ -37,7 +37,7 @@ This project is a **hybrid movie recommendation system** that combines
 
 ---
 
-## 📌 Features
+## Features
 
 - Search any movie title
 - Generate top N movie recommendations based on:
@@ -47,7 +47,7 @@ This project is a **hybrid movie recommendation system** that combines
 
 ---
 
-## 🛠️ How to Run Locally
+## How to Run Locally
 
 ### Clone the repository
 git clone https://github.com/nazimvalikhanov/Movie-Recommendation-System.git
@@ -63,11 +63,11 @@ streamlit run app.py
 
 ---
 
-## 📬 Author
+## Author
 
 **Nazim Valikhanov**  
 📧 nazim.valikhanov@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/nazim-valikhanov)
 
-## 📄 License
+## License
 This project is open source and available under the MIT License.
