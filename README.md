@@ -33,7 +33,7 @@ This project is a **hybrid movie recommendation system** that combines
 │   └── tfidf_model.pkl                # ❌ Not uploaded (too large)
 ├── data/
 │   └── movies.csv                     # ❌ Not uploaded (too large)
-
+```
 
 ---
 
@@ -47,7 +47,7 @@ This project is a **hybrid movie recommendation system** that combines
 
 ---
 
-🛠️ How to Run Locally
+## 🛠️ How to Run Locally
 
 # Clone the repository
 git clone https://github.com/nazimvalikhanov/Movie-Recommendation-System.git
@@ -69,5 +69,5 @@ streamlit run app.py
 📧 nazim.valikhanov@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/nazim-valikhanov)
 
-📄 License
+## 📄 License
 This project is open source and available under the MIT License.
