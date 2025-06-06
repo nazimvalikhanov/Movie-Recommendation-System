@@ -18,7 +18,7 @@ This project is a **hybrid movie recommendation system** that combines
 
 ## Data & Models
 
-> ⚠️ Due to GitHub's file size limit, some large files such as `movies.csv` and `tfidf_model.pkl` are not included here.  
+> ⚠ Due to GitHub's file size limit, some large files such as `movies.csv` and `tfidf_model.pkl` are not included here.  
 > If needed, they can be shared upon request or made accessible via an external link.
 
 ---
