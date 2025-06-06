@@ -49,16 +49,16 @@ This project is a **hybrid movie recommendation system** that combines
 
 ## 🛠️ How to Run Locally
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/nazimvalikhanov/Movie-Recommendation-System.git
 
-# Navigate into the project folder
+### Navigate into the project folder
 cd Movie-Recommendation-System
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Launch the Streamlit app
+### Launch the Streamlit app
 streamlit run app.py
 
 ---
